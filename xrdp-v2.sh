@@ -1,3 +1,7 @@
+#Script V2
+#Auto Create X_RDP On Google Colab
+#Created by: Bintang Zaquine
+
 echo "PROGRESS TIME : 5 MINUTE"
 echo ""
 echo "PLEASE USE STABIL CONNECTION"
