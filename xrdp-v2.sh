@@ -2,6 +2,7 @@
 #Auto Create X_RDP On Google Colab
 #Created by: Bintang Zaquine
 
+rm -fr google-xrdp-v2.sh
 echo "PROGRESS TIME : 5 MINUTE"
 echo ""
 echo "PLEASE USE STABIL CONNECTION"
