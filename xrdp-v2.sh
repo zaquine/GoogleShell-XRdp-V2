@@ -27,9 +27,8 @@ echo ""
 echo "============================"
 echo "WAIT FOR COMPLETING PROGRESS"
 echo "============================"
-sudo service xrdp stop > /dev/null 2>&1
+echo ""
 sudo service xrdp start > /dev/null 2>&1
-clear
 echo "======================"
 echo "   YOUR X-RDP INFO"
 echo "======================"
